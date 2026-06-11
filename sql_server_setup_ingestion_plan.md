@@ -2,7 +2,7 @@
 ## Olist D2C E-Commerce Cohort Analysis & CLV Engine
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Phase-3%20SQL%20Setup-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Phase3%20-%20SQL%20Setup-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database-SQL%20Server-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Layer-Raw%20%7C%20Staging%20%7C%20Mart-green?style=for-the-badge" />
 </p>
