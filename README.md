@@ -405,11 +405,11 @@ This project helped me practice SQL, Python, Power BI, data cleaning, data model
 Current phase:
 
 - Project planning and documentation
-- Data profiling
-- SQL database setup
 
 Next phase:
 
+- Data profiling
+- SQL database setup
 - SQL data quality checks
 - Order-level analytical table creation
 - Python exploratory data analysis
@@ -418,5 +418,5 @@ Next phase:
 
 ## Author
 
-**markala**  
+**Maria Consuelo Mangonon**  
 Aspiring Data Analyst / Business Intelligence Analyst
